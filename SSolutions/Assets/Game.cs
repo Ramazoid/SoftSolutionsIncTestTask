@@ -96,6 +96,7 @@ public class Game : MonoBehaviour
                 player2.Setup(new MousePlayer());
                 player1.Setup(new CompPlayer(ball, player1));
                 break;
+            case "STOP": dSwitchAll(false);break;
         }
     }
 

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Tennis.unity
+- path: Assets/Scenes/SunnyDays.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
